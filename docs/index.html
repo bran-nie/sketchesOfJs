@@ -12,9 +12,36 @@
 </body>
 <script>
   window.$docsify = {
-    repo: '',
-    name: '',
+    // 仓库地址  右上角
+    repo: 'https://github.com/PeterGooo/sketchesOfJs',
+    // 侧边栏  会加载 _sidebar.md  也可以直接加载md文件
+    loadSidebar: true,
+    // 最大展示标题层级（h1，h2...）
+    maxLevel: 6,
+    subMaxLevel: 2,
+    // 切换页面后是否自动跳转到页面顶部
+    auto2top: true,
+    // 启用封面页。开启后是加载 _coverpage.md 文件，也可以自定义文件名。
+    coverpage: true,
+    // 文档标题，会显示在侧边栏顶部。
+    name: '高程笔记',
+    // 同时设置 loadSidebar 和 autoHeader 后，可以根据 _sidebar.md 的内容自动为每个页面增加标题
+    // autoHeader: true,
+    executeScript: true,
+    search: {
+      paths: [],
+      placeholder: '搜索',
+      noData: '找不到结果'
+    }
+  }
+</script>
+<script>
+  if (typeof navigator.serviceWorker !== 'undefined') {
+    navigator.serviceWorker.register('sw.js')
   }
 </script>
 <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+<script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
+<script src="//unpkg.com/docsify/lib/plugins/emoji.js"></script>
+<script src="//unpkg.com/docsify/lib/plugins/external-script.js"></script>
 </html>
