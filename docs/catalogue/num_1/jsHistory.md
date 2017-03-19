@@ -1,21 +1,19 @@
-# javaScript简史
-# JavaScript高级程序设计 mini版 (第三版)
-## 在线阅读 docsify版
-在线阅读 [http://zhinian.info/sketchesOfJs/](http://zhinian.info/sketchesOfJs/)
-## 由来
-在学习JavaScript高级程序设计的过程中，自己的js基础又一次被重写，不得不说，高程真的是一个在多数时候，都能让你获得对js新的认知的书！ 当然，它的厚度也是对得住了【逃】
+# JavaScript历史
+JavaScript诞生于1995年。（和我一年，好有缘~）
 
-那么，怎样是正确的姿势去读这本书呢？跟我来吧
+在js问世之前，比如表单验证，用户必须把表单数据发送到服务器端才能确定用户填写信息，这样的验证费时费力还不人性化。
 
-我是一个js初级入门者，在迈向更高级的js-er的路上，这本高程乃必修之路，因此我拿到这本书，认真的拜读。拜读的过程中，第一遍我大概的了解一下，同时也发现它的知识点好全，全到我看过、敲过，还记不全【捂脸】此时Katherine😊也要打算读，所以，我就整理我的笔记，系统化的托管在[docsify](https://docsify.js.org/#/)上，让自己和Katherine，当然还有你，在拜读高程的过程中，以此为辅助工具，更好的学习。  同时感谢Katherine，让我持续更新😘👏
-## 简介
-1. 此电子档为mini版JavaScript高级程序设计，目录和原书一样，我取出了太常见和太不常见但也实用的知识点，并加上自己的理解和外部资源的扩充
-2. 我希望你能选择的阅读方式是一边翻着高程(纸质书max)，一边有着编辑器、浏览器(谷歌max)， 一边看这个【嘿哈！】
-3. 我也是一个初级js-er，因此我的理解也难免偏向简单，所以大家只是把这个当做笔记借鉴就好。同时也欢迎更多的朋友在此[repository](https://github.com/PeterGooo/sketchesOfJs)的[Issues](https://github.com/PeterGooo/sketchesOfJs/issues)中，**提出你的见解，我会加入里面并声明**
-## 更新 && 变动
-- 更新的事情，我会尽快随着我的进度来更新
-- 可能在学完后面的某个点，我发现前面有不足的地方？  那么我会同时在两个地方做标记，指引查看
+Netscape 当时是技术革新最前沿的公司，决定开发一种客户端语言，用来处理上面的问题-- 表单验证。
 
-## 下载  
-PDF版： [点击下载](https://raw.githubusercontent.com/shihyu/JavaScript/master/books/JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%EF%BC%88%E7%AC%AC3%E7%89%88%EF%BC%89%E3%80%91%E4%B8%AD%E6%96%87%20%E9%AB%98%E6%B8%85%20%E5%AE%8C%E6%95%B4%20%E8%AF%A6%E7%BB%86%E4%B9%A6%E7%AD%BE%E7%89%88.pdf) - - 来自[Github- - -/shihyu/JavaScript/books](https://github.com/shihyu/JavaScript/tree/master/books)
-![pic](https://img3.doubanio.com/lpic/s8958650.jpg)
+Brandan Eich ，（布兰登 艾奇） 开发一种名为 LiveScript 的脚本语言。 在2月发布Netscape Navigator2发布前夕，网景为了搭上当时火热的 Java语言，临时把名字改为了 JavaScript。
+
+# JavaScript的争端
+由于**JavaScript1.0**获得巨大成功，蛋糕就开始引人注目了。
+
+Netscape和微软两家公司的浏览器  开始了js之战
+
+微软于 1996年8月， 将命名为JScript的脚本语言，加入其IE浏览器。
+
+?>他们的战争，必然有胜利的一方，且不说IE现在对我们编写网页带来的麻烦，但在当时，微软这样的措施，无疑不是推进了JavaScript的开发。
+
+# JavaScript 制定标准
