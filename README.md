@@ -1,6 +1,6 @@
 # sketchesOfJs
 
-?>Professional JavaScript for Web Developers (mini)
+Professional JavaScript for Web Developers (mini)
 
 ---
 
