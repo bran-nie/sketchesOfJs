@@ -1,5 +1,5 @@
 # sketchesOfJs
-Professional JavaScript for Web Developers  (mini)   **To <span style="color:#709a3f"> Katherine</span>**
+Professional JavaScript for Web Developers  (mini)
 
 ------
 
