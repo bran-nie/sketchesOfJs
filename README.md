@@ -5,7 +5,7 @@ Professional JavaScript for Web Developers  (mini)
 
 # JavaScript高级程序设计 mini版 (第三版)
 ## 在线阅读 docsify版
-在线阅读 [http://zhinian.info/sketchesOfJs/](http://zhinian.info/sketchesOfJs/)
+在线阅读 [https://bran-nie.github.io/sketchesOfJs/](https://bran-nie.github.io/sketchesOfJs/)
 ## 由来
      在学习JavaScript高级程序设计的过程中，自己的js基础又一次被重写，不得不说，高程真的是一个在多数时候，都能让你获得对js新的认知的书！ 当然，它的厚度也是对得住了【逃】
     那么，怎样是正确的姿势去读这本书呢？*跟我来吧*
