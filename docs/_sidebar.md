@@ -1,19 +1,19 @@
-- 关于
-  - [简介](README.md)
-  - [主题](theme.md)
-- 目录&笔记
-  - [前言](catalogue/foreword.md)
-  - 第 1 章--JavaScript简介
-    - [JavaScript简史](catalogue/num_1/jsHistory.md)
-    - [JavaScript实现](catalogue/num_1/jsShow.md)
-    - [JavaScript版本](catalogue/num_1/jsVersion.md)
-    - [小结](catalogue/num_1/num_1End.md)
-  - 第 2 章--在HTML中使用JS
-    - [script元素](catalogue/num_2/script.md)
-    - [嵌入代码与外部文件](catalogue/num_2/style.md)
-    - [文档模式](catalogue/num_2/DocMoudle.md)
-    - [noscript元素](catalogue/num_2/noscript.md)
-    - [小结](catalogue/num_2/num_2End.md)
-  - 第 3 章--基本概念
-  - 第 4 章--变量、作用域、内存问题
-- [Changelog](changelog.md)
+-   关于
+    -   [简介](README.md)
+    -   [主题](theme.md)
+-   目录&笔记
+    -   [前言](catalogue/foreword.md)
+    -   第 1 章--JavaScript 简介
+        -   [JavaScript 简史](catalogue/num_1/jsHistory.md)
+        -   [JavaScript 实现](catalogue/num_1/jsShow.md)
+        -   [JavaScript 版本](catalogue/num_1/jsVersion.md)
+        -   [小结](catalogue/num_1/num_1End.md)
+    -   第 2 章--在 HTML 中使用 JS
+        -   [script 元素](catalogue/num_2/script.md)
+        -   [嵌入代码与外部文件](catalogue/num_2/style.md)
+        -   [文档模式](catalogue/num_2/DocMoudle.md)
+        -   [noscript 元素](catalogue/num_2/noscript.md)
+        -   [小结](catalogue/num_2/num_2End.md)
+    -   第 3 章--基本概念
+    -   第 4 章--变量、作用域、内存问题
+-   [Changelog](changelog.md)
